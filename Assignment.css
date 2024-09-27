@@ -1,0 +1,36 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  body {
+    background-image:url(./img\ 1.jfif) ;
+    background-size: cover;
+  }
+ .log_in{
+  display: flex;
+flex-direction: column;
+text-align: right;
+float: right;
+text-align: right;
+appearance: column;
+}
+
+ .log_in{
+  width: 5px;
+  text-align: right;
+ }
